@@ -33,8 +33,7 @@
 # print(f"gloo berada di urutan ke = {list_gloo}")
 # print(f"fak berada di urutan ke = {list_fak}")
 #
-
-
+from tokenize import endpats
 
 print("="*10)
 print("="*10)
@@ -78,9 +77,8 @@ else:
     print("durian tidak ada dalam daftar buah ")
 
 
-
-
-
+# untuk memeberikan karakter/spasi
+print("belajar", "python", end="!!!")
 
 
 

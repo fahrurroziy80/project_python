@@ -14,3 +14,4 @@ print(tabulate(
              "Kelas"],
             tablefmt="grid"
 ))
+
